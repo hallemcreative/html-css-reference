@@ -1,0 +1,59 @@
+
+* {
+    font-family: 'MymraMonoLight';
+    background-color: #001219;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'TANTheLaundryRoomRegular';
+    color: #ee9b00;
+}
+
+h2 {
+    color: #94D2BD;
+}
+
+
+
+table {
+    color: #fff;
+   margin: 0 auto;
+}
+
+th {
+
+    font-size: 20px;
+    color: #94D2BD;
+    
+}
+
+td {
+    border: 1px solid #EE9B00;
+    padding: 10px;
+}
+
+img {
+    min-width: 500px;
+    max-width: 600px;
+    background-color: #fff;
+    margin: 0 auto;
+
+    
+}
+
+.code {
+    font-family: monospace;
+    color: #CEE5F2;
+    background-color:#637081;
+}
+
+figcaption {
+    font-family: 'MymraMonoLight';
+    font-style: italic;
+    color:#94D2BD;
+    font-size: 14px;
+    position: relative;
+}
+
